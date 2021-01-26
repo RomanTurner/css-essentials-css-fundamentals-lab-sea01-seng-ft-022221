@@ -15,7 +15,7 @@ nav a{
   background: gray;
 }
 
-img[featured-property]{
+#featured-property img{
   display: block;
   margin-left: auto;
   margin-right: auto;
