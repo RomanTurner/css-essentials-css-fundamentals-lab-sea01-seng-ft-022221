@@ -15,7 +15,7 @@ nav{
   background: gray;
 }
 
-img{
+img[featured-property]{
   display: block;
   margin-left: auto;
   margin-right: auto;
