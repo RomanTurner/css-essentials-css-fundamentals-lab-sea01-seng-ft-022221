@@ -31,6 +31,7 @@ figcaption{
 }
 
 div{
+  background-color: red;
   margin:0 auto;
   width: 800px;
 }
