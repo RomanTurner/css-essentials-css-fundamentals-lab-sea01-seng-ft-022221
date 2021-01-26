@@ -17,7 +17,7 @@ img{
    display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100;
+  width: 50%;
 }
 
 figcaption{
@@ -33,6 +33,6 @@ figcaption{
 div{
   background-color: red;
   text-align: center;
-  margin: 100;
+  margin: 100%;
   float: left;
 }
