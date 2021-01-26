@@ -30,7 +30,7 @@ figcaption{
   text-align: center;
 }
 
-#details{
+div{
   display: flex;
   justify-content: center;
 }
