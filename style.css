@@ -21,6 +21,7 @@ nav a{
   display: block;
   margin-left:0 auto;
   margin-right:0 auto;
+  width: 900px;
 }
 
 #featured-property figcaption{
